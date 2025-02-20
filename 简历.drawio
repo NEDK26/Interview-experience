@@ -1,0 +1,218 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14" pages="2">
+  <diagram name="跨考-学习路线" id="50Vl8hv6x--ixH0fq_QO">
+    <mxGraphModel dx="892" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-1" target="-07HeLV7IKwEfdsjUUnK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;大学里学习计算机基础&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-2" target="-07HeLV7IKwEfdsjUUnK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-2" value="做了简单商城系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-7" value="本科阶段学习 C、C++" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-8" value="好奇写代码就是写个程序，无法理解&lt;div&gt;学习写一个程序就能做一个软件，后面&lt;/div&gt;&lt;div&gt;才知道程序就是算法，是软件的核心部分，&lt;/div&gt;&lt;div&gt;但只是一小部分，我就 听一些计算机专&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;业&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的同学的建议，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;开始学习 Java 并从项目中学习&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-9" target="-07HeLV7IKwEfdsjUUnK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-9" value="前后端分离" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="400" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-10" target="-07HeLV7IKwEfdsjUUnK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-10" value="&amp;nbsp;Mysql 数据库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313.75" y="530" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-11" target="-07HeLV7IKwEfdsjUUnK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-11" value="学习操作系统和计算机网络" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-16" value="前后端分离如何通信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-17" value="用 mybatis 就能操作内存的数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-18" target="-07HeLV7IKwEfdsjUUnK-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-18" target="-07HeLV7IKwEfdsjUUnK-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-18" value="考研上岸" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-20" value="深度学习" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="937.5" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-22" value="python" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="650" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-24" value="时髦专业，需求旺盛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="745" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-25" value="一个算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-26" value="本质上还是一个黑盒算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="917.5" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-27" value="难度还是特别大" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="942.5" y="520" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-28" target="-07HeLV7IKwEfdsjUUnK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-28" target="-07HeLV7IKwEfdsjUUnK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-28" value="Java 后端相关实习" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-30" value="花了挺多时间&lt;div&gt;理解深度学习&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="928.75" y="760" width="137.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-31" value="了解各种技术栈" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-33" value="企业级开发" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-34" value="投递相关岗位" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-36" value="Java 后端岗位需求量大" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1106" y="260" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-37" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;Spring 生态十分丰富&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="222.5" width="124" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-07HeLV7IKwEfdsjUUnK-38" target="-07HeLV7IKwEfdsjUUnK-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-38" value="补充 java 知识" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="932.5" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-41" value="基于兴趣" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="957.5" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-07HeLV7IKwEfdsjUUnK-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="590" as="sourcePoint" />
+            <mxPoint x="1120" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="590" />
+              <mxPoint x="1090" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Gocs5T-MwQgTjKG_RVhu" name="工作中遇到的困难">
+    <mxGraphModel dx="847" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-3" value="重构租金计算逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0JMdcfRL4ipqYmVG6k7-4" target="d0JMdcfRL4ipqYmVG6k7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-4" value="园区项目" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0JMdcfRL4ipqYmVG6k7-5" target="d0JMdcfRL4ipqYmVG6k7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-5" value="已有功能的修改" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-8" value="实习时间久，信任" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="315" y="240" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-10" value="做了很久的 CRUD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="315" y="210" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0JMdcfRL4ipqYmVG6k7-11" target="d0JMdcfRL4ipqYmVG6k7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-11" value="重构租金计算逻辑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0JMdcfRL4ipqYmVG6k7-13" target="d0JMdcfRL4ipqYmVG6k7-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="520" />
+              <mxPoint x="490" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-13" value="调用接口后发现计算前后涉及调用三方接口，不太好 debug，只能看懂整个逻辑后发现只要改个计算方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="480" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0JMdcfRL4ipqYmVG6k7-15" target="d0JMdcfRL4ipqYmVG6k7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-15" value="修改租金计算方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-17" value="师傅讨论" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="525" y="190" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-18" value="项目不急，就用多态或者策略模式的方法去做" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="525" y="230" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0JMdcfRL4ipqYmVG6k7-19" target="d0JMdcfRL4ipqYmVG6k7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0JMdcfRL4ipqYmVG6k7-19" target="d0JMdcfRL4ipqYmVG6k7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-19" value="&amp;nbsp;1. 疫情减免的情况&lt;div&gt;2. 税收减免的企业&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-21" value="根据企业合同信息&lt;div&gt;做一个判断&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0JMdcfRL4ipqYmVG6k7-23" target="d0JMdcfRL4ipqYmVG6k7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-23" value="传入类型后对应的计算逻辑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d0JMdcfRL4ipqYmVG6k7-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="380" as="sourcePoint" />
+            <mxPoint x="590" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="460" />
+              <mxPoint x="590" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0JMdcfRL4ipqYmVG6k7-27" value="通过 component 注解注册到" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
